@@ -1,6 +1,5 @@
-![image](https://github.com/ianxportillo/ianxportillo/blob/main/banner.jpg)
-
 # Hello, my name is Ian Portillo 👋
+![image](https://github.com/ianxportillo/ianxportillo/blob/main/banner.jpg)
 
 ## 👨‍💻 About me:
 
