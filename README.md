@@ -20,6 +20,6 @@ Data Scientist in process. 🤓
 
 ## 📭 Find me at:
 
-[![Email](https://img.shields.io/badge/Email-ian.x.portillo@gmail.com-572364?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](ian.x.portillo@gmail.com)
+![Email](https://img.shields.io/badge/Email-ian.x.portillo@gmail.com-572364?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian_Portillo-0078D7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ian-xavier-portillo)
 [![YouTube](https://img.shields.io/badge/YouTube-IP_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/IPTech)
