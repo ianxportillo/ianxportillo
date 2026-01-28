@@ -3,18 +3,17 @@
 
 ## 👨‍💻 About me:
 
-Data Scientist in process. 🤓
+BI Specialist
 
-- 👀 I'm actually working at Foundever as Data Analyst
-- 🦾 I'm studing at TripleTen to become a Data Scientist.
+- 👀 I'm actually working at Virtustant as Data Analyst
 - 👨‍🎓 I'm an Electronics Engineer and Digital Systems Technician.
 
 ## 🔧 Skills:
 
+![PowerBi](https://img.shields.io/badge/PowerBi-FFBA01?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)
+![Excel](https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![Excel](https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
-![PowerBi](https://img.shields.io/badge/PowerBi-FFBA01?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)
 ![Pandas](https://img.shields.io/badge/Pandas-0078D7?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
 ![Scikit](https://img.shields.io/badge/SciKit-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)
 
